@@ -1,9 +1,9 @@
-# Hello, I'm CHANGEME
+# Hello, I'm CyberDaily
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in the ever-evolving field of CyberSecurity. 
 
 ## Objective
 My objective in studying cyber security and hacking is to delve deeply into the complexities of cybersecurity strategies along with penetration testing. Through a meticulous examination of these domains, I aspire to gain a profound understanding of the methodologies, tools, and ethical frameworks that underpin this pivotal field. Armed with this knowledge, I intend to play a proactive role in enhancing the security posture of critical data while also cultivating a nuanced awareness of the dynamic landscape of cybersecurity threats and protective measures.
@@ -18,7 +18,7 @@ My journey in Information Systenms has led me to develop a passion for cybersecu
 
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Learning how to leverage Arp Spoofing         | <a [href="https://github.com/CyberDaily/Arp-Spoofing)">Arp Spoofing</a>|
+| Learning how to leverage Arp Spoofing         | <a href="https://github.com/CyberDaily/Arp-Spoofing"> Arp Spoofing</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
